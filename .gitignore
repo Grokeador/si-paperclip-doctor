@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+*.pyo
+.si_paperclip_doctor_backup/
+demo_workspace/
